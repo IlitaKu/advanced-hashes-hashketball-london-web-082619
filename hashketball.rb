@@ -23,6 +23,7 @@ end
 #3 iterates over player name and its information
 # if parameter is equal to player name
 # return that player scored points.
+
 def num_points_scored (sportsman)
 game_hash
 scores = 0
